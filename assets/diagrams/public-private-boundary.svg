@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img">
+<title>TheFAYTH File Type public/private boundary</title>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#7B2638"/></marker></defs>
+<rect width="1200" height="680" fill="#FFFDF8"/>
+<text x="70" y="74" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#241F21">TheFAYTH File Type public/private boundary</text>
+<path d="M 210 225 L 330 225" stroke="#7B2638" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+<path d="M 210 225 L 330 435" stroke="#7B2638" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+<path d="M 770 225 L 890 225" stroke="#7B2638" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+<path d="M 770 225 L 630 435" stroke="#7B2638" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+<path d="M 470 435 L 630 435" stroke="#7B2638" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+<rect x="90" y="180" width="220" height="92" rx="14" fill="#FFFFFF" stroke="#DACBBC" stroke-width="3"/>
+<text x="110" y="216" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#241F21">Public Repo</text>
+<text x="110" y="246" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#766A66">concept surface</text>
+<rect x="350" y="180" width="220" height="92" rx="14" fill="#F7F0E6" stroke="#DACBBC" stroke-width="3"/>
+<text x="370" y="216" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#241F21">WordPress Draft</text>
+<text x="370" y="246" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#766A66">project page</text>
+<rect x="650" y="180" width="220" height="92" rx="14" fill="#FFFFFF" stroke="#DACBBC" stroke-width="3"/>
+<text x="670" y="216" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#241F21">Private Engine</text>
+<text x="670" y="246" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#766A66">source + keys</text>
+<rect x="910" y="180" width="220" height="92" rx="14" fill="#F7F0E6" stroke="#DACBBC" stroke-width="3"/>
+<text x="930" y="216" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#241F21">Original Files</text>
+<text x="930" y="246" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#766A66">never exposed</text>
+<rect x="350" y="390" width="220" height="92" rx="14" fill="#FFFFFF" stroke="#DACBBC" stroke-width="3"/>
+<text x="370" y="426" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#241F21">Safe Claims</text>
+<text x="370" y="456" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#766A66">tamper-evident</text>
+<rect x="650" y="390" width="220" height="92" rx="14" fill="#F7F0E6" stroke="#DACBBC" stroke-width="3"/>
+<text x="670" y="426" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" fill="#241F21">Private Proofs</text>
+<text x="670" y="456" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#766A66">receipts + policy</text>
+</svg>

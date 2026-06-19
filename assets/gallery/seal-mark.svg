@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">FAYTH seal mark</title>
+  <desc id="desc">Rose and brass circular seal mark for FAYTH Unveil.</desc>
+  <defs>
+    <radialGradient id="paper" cx="38%" cy="28%" r="72%">
+      <stop offset="0%" stop-color="#FFFDF8"/>
+      <stop offset="58%" stop-color="#F7F0E6"/>
+      <stop offset="100%" stop-color="#EBDDCF"/>
+    </radialGradient>
+    <linearGradient id="rose" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#8E3047"/>
+      <stop offset="100%" stop-color="#5E1E2D"/>
+    </linearGradient>
+    <linearGradient id="brass" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#F3DFA2"/>
+      <stop offset="48%" stop-color="#B68B4A"/>
+      <stop offset="100%" stop-color="#7E5D2D"/>
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="232" fill="url(#paper)" stroke="url(#brass)" stroke-width="14"/>
+  <circle cx="256" cy="256" r="194" fill="none" stroke="#DACBBC" stroke-width="4"/>
+  <path d="M164 244v-36c0-53 39-91 92-91s92 38 92 91v36" fill="none" stroke="url(#rose)" stroke-width="28" stroke-linecap="round"/>
+  <rect x="138" y="232" width="236" height="162" rx="34" fill="url(#rose)" stroke="url(#brass)" stroke-width="9"/>
+  <circle cx="256" cy="309" r="22" fill="#F3DFA2"/>
+  <path d="M256 329v38" stroke="#F3DFA2" stroke-width="18" stroke-linecap="round"/>
+  <path d="M112 106c72 38 216 38 288 0" fill="none" stroke="#B68B4A" stroke-width="7" stroke-linecap="round" opacity=".72"/>
+</svg>
