@@ -1,20 +1,20 @@
 # Public Surface Receipt
 
-            ## Project
+## Project
 
-            Project name: TheFAYTH File Type
+Project name: TheFAYTH File Type
 
-            Base slug: `thefayth-file-type`
+Base slug: `thefayth-file-type`
 
-            Chosen repository slug: `thefayth-file-type`
+Chosen repository slug: `thefayth-file-type`
 
-            Version status: base public repository created and populated from this `_github_public_export` package.
+Version status: base public repository created and populated from this `_github_public_export` package.
 
-            Repository URL: https://github.com/thefayth/thefayth-file-type
+Repository URL: https://github.com/thefayth/thefayth-file-type
 
-            ## Files Created Or Modified
+## Files Created Or Modified
 
-            - README.md
+- README.md
 - LICENSE.md
 - NOTICE.md
 - SECURITY.md
@@ -26,44 +26,44 @@
 - wordpress/page.md
 - wordpress/meta.md
 
-            ## Files Excluded
+## Files Excluded
 
-            - Implementation source, local signing keys, test payloads, private proof records, passwords, and unpublished patent/product notes.
+- Implementation source, local signing keys, test payloads, private proof records, passwords, and unpublished patent/product notes.
 - Adult-only .fay package work, private disclosure policies, and sensitive original files.
 - Any legal, medical, benefits, family, or administrative records.
 
-            ## Selected Visuals
+## Selected Visuals
 
-            Use the existing Ivory Rose Seal brand system and render public-safe PNG derivatives locally.
+Use the existing Ivory Rose Seal brand system and render public-safe PNG derivatives locally.
 
-            See `docs/IMAGE_ASSET_AUDIT.md` for source, destination, purpose, alt text, and safety rating.
+See `docs/IMAGE_ASSET_AUDIT.md` for source, destination, purpose, alt text, and safety rating.
 
-            ## Workflow Status
+## Workflow Status
 
-            Workflow diagrams created:
+Workflow diagrams created:
 
-            - `assets/diagrams/workflow-overview.mmd`
-            - `assets/diagrams/workflow-overview.svg`
-            - `assets/diagrams/public-private-boundary.mmd`
-            - `assets/diagrams/public-private-boundary.svg`
-            - `docs/WORKFLOW_DIAGRAMS.md`
+- `assets/diagrams/workflow-overview.mmd`
+- `assets/diagrams/workflow-overview.svg`
+- `assets/diagrams/public-private-boundary.mmd`
+- `assets/diagrams/public-private-boundary.svg`
+- `docs/WORKFLOW_DIAGRAMS.md`
 
-            ## WordPress Status
+## WordPress Status
 
-            Draft created only. No WordPress publishing was performed.
+Draft created only. No WordPress publishing was performed.
 
-            Suggested path: `/projects/thefayth-file-type/`
+Suggested path: `/projects/thefayth-file-type/`
 
-            ## Privacy Status
+## Privacy Status
 
-            Default readiness: READY AFTER FAITH REVIEW.
+Default readiness: READY AFTER FAITH REVIEW.
 
-            ## What Remains Private
+## What Remains Private
 
-            - Implementation source, local signing keys, test payloads, private proof records, passwords, and unpublished patent/product notes.
+- Implementation source, local signing keys, test payloads, private proof records, passwords, and unpublished patent/product notes.
 - Adult-only .fay package work, private disclosure policies, and sensitive original files.
 - Any legal, medical, benefits, family, or administrative records.
 
-            ## Recommended Next Action
+## Recommended Next Action
 
-            Review the live GitHub public surface, approve or revise the FaithCheltenham.com draft, then publish the WordPress page only after Faith approval.
+Review the live GitHub public surface, approve or revise the FaithCheltenham.com draft, then publish the WordPress page only after Faith approval.

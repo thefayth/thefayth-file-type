@@ -1,6 +1,6 @@
 # Image Asset Audit
 
-            | Source path | Destination path | Purpose | Alt text | Safety rating |
+| Source path | Destination path | Purpose | Alt text | Safety rating |
 | --- | --- | --- | --- | --- |
 | `generated local Ivory Rose Seal card` | `assets/hero/hero-image.png` | README and WordPress hero | TheFAYTH File Type hero image | PUBLIC SAFE |
 | `generated local Ivory Rose Seal card` | `assets/banners/github-banner.png` | GitHub repository banner | TheFAYTH File Type GitHub banner | PUBLIC SAFE |
