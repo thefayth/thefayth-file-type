@@ -59,6 +59,7 @@ Faith offers quote-first protected-file/provenance consulting, GitHub/public sur
 - Request a scoped project: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
 - Project page: [TheFAYTH File Type](https://faithcheltenham.com/projects/thefayth-file-type/)
 - Portfolio and offers: [Faith AI Systems Portfolio](https://thefayth.github.io/faith-ai-systems-portfolio/)
+- Sample deliverables: [Sample Deliverables](https://thefayth.github.io/faith-ai-systems-portfolio/sample-deliverables.html)
 - Buyer FAQ: [Buyer FAQ](https://thefayth.github.io/faith-ai-systems-portfolio/buyer-faq.html)
 - Pilot sprint menu: [Pilot Sprint Menu](https://thefayth.github.io/faith-ai-systems-portfolio/pilot-sprint-menu.html)
 - Public proof index: [Public Proof Index](https://thefayth.github.io/faith-ai-systems-portfolio/public-proof-index.html)
