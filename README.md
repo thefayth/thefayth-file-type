@@ -52,6 +52,14 @@ A source file is sealed into an encrypted .fayth package with metadata, hashes, 
 
 Prepared public surface. The v1 file implementation remains private and local-first pending review.
 
+## Work With Faith
+
+Faith offers quote-first protected-file/provenance consulting, GitHub/public surface packaging, local AI workflow setup, AI brand system audits, and website visual cleanup.
+
+- Request a scoped project: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
+- Project page: [TheFAYTH File Type](https://faithcheltenham.com/projects/thefayth-file-type/)
+- Ask about licensing or partnership: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
+
 ## How To Learn More
 
 - Review the public docs in `docs/`.
