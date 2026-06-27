@@ -4,6 +4,8 @@ Faith Cheltenham offers quote-first work for creators, technologists, founders, 
 
 Primary contact: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
 
+Portfolio and offer overview: [Faith AI Systems Portfolio](https://thefayth.github.io/faith-ai-systems-portfolio/)
+
 ## Best-Fit Engagements
 
 ### Protected File / Provenance Consulting
@@ -50,4 +52,3 @@ Do not send passwords, app passwords, API keys, signed URLs, private records, or
 ## Commercial Boundary
 
 This public repository does not grant a license to the private implementation, keys, proof records, source code, prompts, private workflows, or reusable systems. Any paid engagement, licensing, or partnership must be agreed in writing.
-
